@@ -5,9 +5,8 @@ Almost Accurate prediction in result for future 2 year retail sales
 
 
 
-
+![](/images/ETS_FORECATS.PNG)
 ![](/images/ARIMA.PNG)
+![](/images/Actual_vs_forecasting_comparison_graphical.PNG)
+![](/images/Actual_vs_forecasting_comparison_values.PNG) 
 
-![](/images/Actual vs forecasting comparison graphical.PNG)
-![](/images/Actual vs forecasting comparison values.PNG) 
-![](/images/ETS FORECATS.PNG)
